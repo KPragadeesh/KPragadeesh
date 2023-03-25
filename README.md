@@ -1,4 +1,4 @@
-                                      Hi there 👋 Thanks for visiting my profile.!
+                                         Hi there 👋 Thanks for visiting my profile.!
 
 - 🔭 "Budding Automation Engineer........" 
 - 🌱 Enroute to Tech Saavy!
