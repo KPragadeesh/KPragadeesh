@@ -4,7 +4,8 @@
 - 🌱 Enroute to Tech Saavy!
 - 🤔 Happy to learn more about "Automation"
 - 💬 Ask me about ... "Test Automation"
-- 📫 How to reach me: ... "k.pragadeesh30@gmail.com"
+- 📫 How to reach me: ... "k.pragadeesh30@gmail.com" 
+- 📫 Know more about me at : ... "https://www.canva.com/design/DAFLLm3V1PM/PnmpBqCY2mqH4a5dE6gYqA/view"
 
 
 Languages::
