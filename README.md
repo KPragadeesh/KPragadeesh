@@ -5,7 +5,7 @@
 - 🤔 Happy to learn more about "Automation"
 - 💬 Ask me about ... "Test Automation"
 - 📫 How to reach me: ... "k.pragadeesh30@gmail.com" 
-- 📫 Know more about me at : ... "https://www.canva.com/design/DAFLLm3V1PM/PnmpBqCY2mqH4a5dE6gYqA/view"
+- 📫 Know more about me at : ... "https://docs.google.com/document/d/1ec0DY1y_jM3zpVdxlq0Kh8QTRoYxQwIxGU-MEm4wAXQ/edit?tab=t.0"
 
 
 Languages::
