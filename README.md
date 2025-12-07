@@ -1,11 +1,10 @@
                                          Hi there 👋 Thanks for visiting my profile.!
 
-- 🔭 "Budding Automation Engineer........" 
+- 🔭 "Budding Software Engineer........" 
 - 🌱 Enroute to Tech Saavy!
-- 🤔 Happy to learn more about "Automation"
-- 💬 Ask me about ... "Test Automation"
+- 🤔 Happy to learn more about "Cloud/Devops/AI"
+- 💬 Ask me about ... "Automation/Cloud/Devops/AI/MLOPs"
 - 📫 How to reach me: ... "k.pragadeesh30@gmail.com" 
-- 📫 Know more about me at : ... "https://docs.google.com/document/d/1ec0DY1y_jM3zpVdxlq0Kh8QTRoYxQwIxGU-MEm4wAXQ/edit?tab=t.0"
 
 
 Languages::
