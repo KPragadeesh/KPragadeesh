@@ -1,6 +1,6 @@
                                          Hi there 👋 Thanks for visiting my profile.!
 
-- 🔭 "Budding Software Engineer........" 
+- 🔭 "I am a Self learned Software Engineer........" 
 - 🌱 Enroute to Tech Saavy!
 - 🤔 Happy to learn more about "Cloud/Devops/AI"
 - 💬 Ask me about ... "Automation/Cloud/Devops/AI/MLOPs"
